@@ -1,0 +1,40 @@
+*{
+  margin: 0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+.one{
+  float:left;
+  height: 400px;
+  width: 50%;
+  }
+.two{
+  float: left;
+    height: 400px;
+    width: 50%;
+  }
+  .three{
+    float: left;
+      height: 400px;
+      width: 50%;
+  }
+  .four{
+    float: left;
+      height: 400px;
+      width: 50%;
+      justify-content:space-around;
+  }
+  .five{
+    float: left;
+      height: 400px;
+      width: 50%;
+      text-align:center;
+  }
+  .para5{
+    margin-left: 5px;
+  }
+  .image{
+    float: right;
+
+  }
+  

@@ -1,0 +1,104 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/*-----navigation----*/
+#nav-bar
+{
+  position:relative;
+  top: 0;
+  z-index: 10;
+}
+.navbar-brand img{
+  height: 100px;
+  padding-left: 30px;
+}
+.navbar-nav li{
+padding: 0 10px;
+
+}
+.navbar-nav li a {
+  float: right;
+  text-align: left;
+  text-transform: capitalize;
+  text-decoration-color:black;
+}
+#nav-bar ul li a:hover{
+
+color: #b22222 !important;
+}
+.navbar{
+  background: #fff;
+}
+.navbar-toggler{
+  border: none;
+}
+.nav-link{
+  color:#555;
+  font-weight: 600;
+  font-size: 16px;
+}
+#slider{
+  width: 50%;
+}
+#services{
+  text-align:center;
+  color:#777;
+  
+}
+h1{
+  text-align:center;
+  padding-top: 5%;
+}
+h5{
+  text-align: justify;
+}
+/*-----drop us*/
+#Contact{
+  background: #efefef;
+  padding-top: 40px;
+  padding-bottom:40px;
+  color: #777;
+}
+.contact-form{
+  padding: 15px;
+}
+.form-control{
+  border-radius: 0 !important;
+  border: none;
+}
+::placeholder{
+  color: #999;
+}
+.follow{
+  background: #fff;
+  padding: 10px;
+  margin: 15px;
+}
+.contact-info img{
+  margin: 10px;
+  color: #007bff;
+  font-weight: 10;
+  height: auto;
+  width: 10%;
+
+}
+#footer{
+  background: #333;
+  color: #777;
+  padding: 12px;
+}
+/*-----drop us*/
+#Blog{
+  background: #efefef;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: #777;
+    text-align:justify;
+
+}
+
+
+
+
+

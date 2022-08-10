@@ -1,0 +1,56 @@
+*{
+  box-sizing:border-box;
+
+}
+#nav-bar{
+  position: ;
+  top: 0;
+  z-index: 10;
+  }
+
+    navbar-brand img{
+      height: 20px;
+      padding-left: 30px;
+      width: 10px;
+    }
+    .navbar-nav li{
+      padding: 0 10px;
+
+    }
+    .navbar-nav li a{
+      float:right;
+      text-align: left;
+    }
+    #navbar-nav li a:hover{
+      color: #007bff;
+    }
+    .navlink{
+      color: #555;
+      font-weight: 600;
+      font-size: 16px;
+    }
+.nav ul{
+  display: flex;
+  margin: o;
+  float:right;
+  color:black;
+
+}
+.nav li{
+  display:flex;
+  color: aqua;
+}
+.nav a{
+  padding: .5em 1.5em;
+  text-decoration: none;
+  display:inline-block;
+  font-size: .9em;
+}
+.item list{
+  float: left;
+    height: 400px;
+    width: 50%;
+
+}
+
+
